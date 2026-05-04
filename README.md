@@ -1,0 +1,1 @@
+# FER-at-SemEval-2026-Task6-Analysis-of-Different-Approaches-to-Unmasking-Political-Question-Evasions

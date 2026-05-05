@@ -1,0 +1,9 @@
+output/
+*.tar.gz
+*.zip
+*.log
+*.pid
+__pycache__/
+.ipynb_checkpoints/
+.env
+venv/
